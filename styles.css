@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(255, 255, 255);
+    scrollbar-color: rgb(64, 0, 128);
+}
+
+main {
+    max-width: 700px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr.new1 {
+    border: 2px solid black;
+}
+
+hr.new2 {
+  border-top: 2px dashed rgb(0, 0, 0);
+}
+
+hr.new3 {
+  border-top: 2px dotted rgb(78, 49, 183);
+}
+
+em {
+    color: white;
+    font-family: "Rubik Pixels", system-ui;
+    font-size: 12px;
+}
+
+p {
+    font-family: "Special Elite", system-ui;
+    font-size: 15px;
+}
+
+
+h1 {
+    font-family: "Macondo", cursive;
+    font-size: 37px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Macondo", cursive;
+    font-size: 27px;
+}
+
+
+h3 {
+    font-family: "Macondo", cursive;
+    font-size: 27px;
+    text-align: center;
+}
+
+h4{
+    font-family: "Zeyada", cursive;
+    font-size: 17px;
+}
+
+h5 {
+    font-family: "Rubik Pixels", system-ui;
+    font-size: 13px;
+    font-weight: 1;
+    color: rgba(0, 0, 0, 0.543);
+    font-style: italic;
+    
+}
+
+h6 {
+    font-family: "Macondo", cursive;
+    font-size: 15px;
+}
+
+
+.navbar {
+  overflow: auto;
+  white-space: nowrap;
+  display: inline-block;
+
+  background-color: #6e03c5c4;
+  border-radius: 7px;
+  padding: 7px;
+  
+  position: scroll;
+  top: 0;
+  width: 100%;
+  -webkit-text-fill-color: white;
+  
+  font-family: "Macondo", cursive;
+  text-align: center;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+
